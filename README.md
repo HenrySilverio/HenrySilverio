@@ -3,14 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-b-silverio)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silveriohenriqueb@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/HenrySilverio?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/HenrySilverio?style=for-the-badge)
 
 ---
-
 🎯 **Frontend Software Engineer** with over 4 years of experience, passionate about building high-performance, scalable, and user-friendly digital experiences that drive business impact.
 
 📍 Based in Uberlândia, Brazil | 💻 Remote-ready
-
 ---
 
 ## 🚀 About Me
@@ -24,7 +21,6 @@ I specialize in:
 - 🎨 **Design Systems & Reusable Components** – Crafting responsive, mobile-first UI components used across large teams.
 
 ---
-
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
@@ -43,7 +39,6 @@ I specialize in:
 `Git` · `GitHub` · `GitLab` · `Jira` · `PostgreSQL` · `Scrum`
 
 ---
-
 ## 🌱 Currently Learning
 
 - Advanced design patterns and scalable architecture for frontend apps  
@@ -51,7 +46,6 @@ I specialize in:
 - Best practices for SEO, accessibility (a11y), and internationalization (i18n)
 
 ---
-
 ## 🤝 Let’s Collaborate
 
 I’m open to working on:
@@ -61,14 +55,12 @@ I’m open to working on:
 - 🌐 Projects using **React.js**, **Next.js**, **TypeScript**, or **AngularJS**
 
 ---
-
 ## 📫 Reach Me At
 
 📧 [silveriohenriqueb@gmail.com](mailto:silveriohenriqueb@gmail.com)  
 💼 [linkedin.com/in/henrique-b-silverio](https://linkedin.com/in/henrique-b-silverio)
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -79,5 +71,4 @@ I’m open to working on:
 </div>
 
 ---
-
 > _“Great software is built by great teams, and I'm always looking to be part of one.”_
