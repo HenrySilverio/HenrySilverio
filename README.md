@@ -60,15 +60,4 @@ I’m open to working on:
 📧 [silveriohenriqueb@gmail.com](mailto:silveriohenriqueb@gmail.com)  
 💼 [linkedin.com/in/henrique-b-silverio](https://linkedin.com/in/henrique-b-silverio)
 
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenrySilverio&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenrySilverio&layout=compact&theme=radical)
-
-</div>
-
----
 > _“Great software is built by great teams, and I'm always looking to be part of one.”_
