@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/HenrySilverio?style=for-the-badge)
 
 ---
-🎯 **Frontend Software Engineer** with over 4 years of experience, passionate about building high-performance, scalable, and user-friendly digital experiences that drive business impact.
+🎯 **Frontend Software Engineer** with over 5 years of experience, passionate about building high-performance, scalable, and user-friendly digital experiences that drive business impact.
 
 📍 Based in Uberlândia, Brazil | 💻 Remote-ready
 ---
