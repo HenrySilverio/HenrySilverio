@@ -24,7 +24,7 @@ I specialize in:
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-`JavaScript` · `TypeScript` · `React.js` · `Next.js` · `AngularJS` · `Node.js` · `NestJS`
+`JavaScript` · `TypeScript` · `React.js` · `Next.js` · `AngularJS` · `Node.js` · `NestJS`, `Java`, `Spring boot`
 
 **State Management**  
 `Redux` · `Zustand`
